@@ -1,0 +1,12 @@
+{
+  "name": "PumpPutin",
+  "symbol": "PUMPPTN",
+  "mint": "2KAjfUuAWXWr8H7Su9j2pdUphAYfRFh2U8PjGLezpump",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/shajulalamc/pumpputin-metadata/main/assets/pumpputin.png",
+  "extensions": {
+    "twitter": "https://twitter.com/pumpputin",
+    "telegram": "https://t.me/trmpputin",
+    "discord": "https://discord.gg/pumpputin"
+  }
+}
